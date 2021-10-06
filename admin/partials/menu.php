@@ -1,3 +1,6 @@
+<?php include('../config/const.php') ; ?>
+
+
 <html>
     <head>
         <title>Food Order - Home page</title>
